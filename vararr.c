@@ -38,7 +38,7 @@ printf("Student_id : %d\n"
 		//Value of Allocated_Struct_size here is in bytes. 
 } 
 
-//Driver Code written below
+//Driver Code written below is the real code present
 int main() 
 { 
 	struct student *s1, *s2; 
