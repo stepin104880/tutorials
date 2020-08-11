@@ -3,7 +3,7 @@
 #include<stdio.h> 
 #include<stdlib.h> 
 
-//A structure of type student 
+//A structure of type called student 
 struct student 
 { 
 int stud_id; 
@@ -38,7 +38,7 @@ printf("Student_id : %d\n"
 		//Value of Allocated_Struct_size here is in bytes. 
 } 
 
-//Driver Code 
+//Driver Code written below
 int main() 
 { 
 	struct student *s1, *s2; 
